@@ -42,7 +42,7 @@ then
 
 Once you have your list of 100 transactions, rank them from 0 to 99 (where 0 is the transaction most likely to be
 fraudulent (i.e. is the biggest anomaly)), save this as a csv with the file name `team_<your-team-name>.csv` and send it to
-a.biffin@vanlanschotkempen.com. You can see an example file in the `/submission/` folder if you are unsure about how it should be formatted.
+aneesaabbasi91@outlook.com. You can see an example file in the `/submission/` folder if you are unsure about how it should be formatted.
 
 ### Useful libraries
 
